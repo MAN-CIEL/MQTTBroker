@@ -1,0 +1,38 @@
+1746455007: mosquitto version 2.0.21 starting
+1746455007: Config loaded from /mosquitto/config/mosquitto.conf.
+1746455007: Opening ipv4 listen socket on port 1883.
+1746455007: Opening ipv6 listen socket on port 1883.
+1746455007: mosquitto version 2.0.21 running
+1746455773: New connection from 172.20.0.1:54328 on port 1883.
+1746455773: New client connected from 172.20.0.1:54328 as postman-mqtt-client-1746451606383 (p5, c0, k60).
+1746455773: No will message specified.
+1746455773: Sending CONNACK to postman-mqtt-client-1746451606383 (0, 0)
+1746455773: Received SUBSCRIBE from postman-mqtt-client-1746451606383
+1746455773: 	myTopic (QoS 0)
+1746455773: postman-mqtt-client-1746451606383 0 myTopic
+1746455773: Sending SUBACK to postman-mqtt-client-1746451606383
+1746455776: Received PUBLISH from postman-mqtt-client-1746451606383 (d0, q0, r0, m0, 'myTopic', ... (8 bytes))
+1746455776: Sending PUBLISH to postman-mqtt-client-1746451606383 (d0, q0, r0, m0, 'myTopic', ... (8 bytes))
+1746455836: Received PINGREQ from postman-mqtt-client-1746451606383
+1746455836: Sending PINGRESP to postman-mqtt-client-1746451606383
+1746455896: Received PINGREQ from postman-mqtt-client-1746451606383
+1746455896: Sending PINGRESP to postman-mqtt-client-1746451606383
+1746455956: Received PINGREQ from postman-mqtt-client-1746451606383
+1746455956: Sending PINGRESP to postman-mqtt-client-1746451606383
+1746456016: Received PINGREQ from postman-mqtt-client-1746451606383
+1746456016: Sending PINGRESP to postman-mqtt-client-1746451606383
+1746456076: Received PINGREQ from postman-mqtt-client-1746451606383
+1746456076: Sending PINGRESP to postman-mqtt-client-1746451606383
+1746456136: Received PINGREQ from postman-mqtt-client-1746451606383
+1746456136: Sending PINGRESP to postman-mqtt-client-1746451606383
+1746456196: Received PINGREQ from postman-mqtt-client-1746451606383
+1746456196: Sending PINGRESP to postman-mqtt-client-1746451606383
+1746456256: Received PINGREQ from postman-mqtt-client-1746451606383
+1746456256: Sending PINGRESP to postman-mqtt-client-1746451606383
+1746456316: Received PINGREQ from postman-mqtt-client-1746451606383
+1746456316: Sending PINGRESP to postman-mqtt-client-1746451606383
+1746456376: Received PINGREQ from postman-mqtt-client-1746451606383
+1746456376: Sending PINGRESP to postman-mqtt-client-1746451606383
+1746456436: Received PINGREQ from postman-mqtt-client-1746451606383
+1746456436: Sending PINGRESP to postman-mqtt-client-1746451606383
+1746456483: mosquitto version 2.0.21 terminating
